@@ -1,0 +1,7 @@
+# Written by the stage: never commit a local build, environment or secret.
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.env
+*.difypkg

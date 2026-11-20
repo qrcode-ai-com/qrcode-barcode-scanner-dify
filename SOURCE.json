@@ -1,0 +1,32 @@
+{
+  "schema": "qrscan-dify-stage/1",
+  "engine": {
+    "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
+    "revision": "eb18fee880cf37694502b1da416d5cb931729592"
+  },
+  "satellite": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-dify",
+  "files": {
+    ".difyignore": "bac649e86aafe32316e399de7c8e1c33d1ee672687a8a79eba935635114a85d6",
+    ".github/workflows/tests.yml": "a7270e1707f49840233f56d5c85774b493096bf078427b1d7852aa8756156948",
+    ".gitignore": "742db5239d021459b971b0ac06d921e517717ccb0ea77f144f8a5df20e80d17f",
+    "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
+    "PRIVACY.md": "61a7c10c6e5fe3ea4e1fd34ff7b299a2225c3eb508fc0f6af9db8d1ac395abdf",
+    "README.md": "8f96e029205b98c9f7b2077012a7af0f7d94d319040c2a6257aa8107a3897931",
+    "_assets/icon.svg": "61179e1113fa0dc759805f3887abfb9db6f4f980df4eae85dd8b8f73647aa694",
+    "main.py": "feb5e5231aa87ed8185479ff31567e02ea86856279a593fe283ac7029e0a9f9d",
+    "manifest.yaml": "8b59bdd93a0e52ece81cd5a2f50bdb4a5f7b88682c31038625434fbf46e823f5",
+    "provider/qrcode_barcode_scanner.py": "4f6b751f9d0b8ac60e2adb46428b4095c288ab4ec3909bed0daf40d90f8216c2",
+    "provider/qrcode_barcode_scanner.yaml": "2f6d269fb4aed7dae8d2f8aa4c18dc44065633c3b896b7c996ad33e56cf5c2cb",
+    "requirements.txt": "9baad0cf508a5ec5a89db4bc1df3e9d1bfebf9c534c4e61d96f0a9b0f36f14cb",
+    "template/TEMPLATE.md": "1f9b4328e66440190c96f87042e2a5bca0b838419a09c132999d3452138729af",
+    "template/qr-and-barcode-reader.yml": "271fd4b311af2f8a0a6eb6294fc39dc7ca337bdbeaf24a25b7733634a57d415e",
+    "tests/conftest.py": "cf52509fc75c653b4c64b085be4308ebb691309e3804b9ba0248d18377bff9d6",
+    "tests/fixtures/clean/gen_v5_q.png": "1dc399cad19623a145b20251cf1c0da42ea4f54fd79871a4dd796c9554822dd6",
+    "tests/fixtures/symbology/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
+    "tests/requirements.txt": "6b03d54e739b054fda0d4b71eeb4a2bb9b9018d183c2dc2338e910030058d70d",
+    "tests/test_plugin.py": "79a895e7682a5107b612a0ecfb7aa7e85ec6658aac2138575e9cb81b563ffbd5",
+    "tests/test_template.py": "aae78717df8e31a18cf9f677d23e63fdbf2ef738fd9755e0a1e3f8710ffa54dd",
+    "tools/scan_image.py": "c5832930e35fd240e0cbaf747e07cb8b138b3f26877481aab6e443ae2917b338",
+    "tools/scan_image.yaml": "46c4bf4eba6476e6621cf7be435c778e07c27030521d2e91c439f4d56c5f78e1"
+  }
+}
