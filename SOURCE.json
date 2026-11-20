@@ -2,7 +2,7 @@
   "schema": "qrscan-dify-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "b22fae77c712fecc48e7ae8932d2c74b36431e0c"
+    "revision": "700ae222b16a74fa0b0f60488808974d35d62333"
   },
   "satellite": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-dify",
   "files": {
@@ -11,7 +11,7 @@
     ".gitignore": "742db5239d021459b971b0ac06d921e517717ccb0ea77f144f8a5df20e80d17f",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
     "PRIVACY.md": "61a7c10c6e5fe3ea4e1fd34ff7b299a2225c3eb508fc0f6af9db8d1ac395abdf",
-    "README.md": "5ae9941ff70129ace91d64e69c6837034bdc21f3bf0590331e174d3cf79d74fd",
+    "README.md": "5c2035509f18e23a7c77da40e6eb97aacdb9a8febe1e4565d390706347329ba6",
     "_assets/icon.svg": "61179e1113fa0dc759805f3887abfb9db6f4f980df4eae85dd8b8f73647aa694",
     "main.py": "feb5e5231aa87ed8185479ff31567e02ea86856279a593fe283ac7029e0a9f9d",
     "manifest.yaml": "16ae6768f447ec0efde24fe036b18b4556fd7d4da4b0d3bf5b7ef08537592960",
